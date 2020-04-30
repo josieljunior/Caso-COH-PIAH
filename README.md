@@ -43,8 +43,7 @@ A partir da assinatura conhecida de um portador de COH-PIAH, seu programa dever�
 
 Após calcular esses valores para cada texto, você deve compará-los com a assinatura fornecida para os infectados por COH-PIAH. O grau de similaridade entre dois textos, aa e bb, é dado pela fórmula:
 
-\[S_{ab}=\frac{\sum _{i=1}^{6}\left \| f_{i,a}-f_{i,b} \right \|}{6}\]
-
+![](https://latex.codecogs.com/gif.latex?S_%7Bab%7D%3D%5Cfrac%7B%5Csum%20_%7Bi%3D1%7D%5E%7B6%7D%5Cleft%20%5C%7C%20f_%7Bi%2Ca%7D-f_%7Bi%2Cb%7D%20%5Cright%20%5C%7C%7D%7B6%7D)
 
 Onde:
 - S<sub>ab</sub> é o grau de similaridade entre os textos a e b;
