@@ -45,6 +45,8 @@ Após calcular esses valores para cada texto, você deve compará-los com a assi
 
 <img src="https://latex.codecogs.com/gif.latex?S_{ab}=\frac{\sum&space;_{i=1}^{6}\left&space;\|&space;f_{i,a}-f_{i,b}&space;\right&space;\|}{6}" title="S_{ab}=\frac{\sum _{i=1}^{6}\left \| f_{i,a}-f_{i,b} \right \|}{6}" />
 
+Let $\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
+
 Onde:
 - S<sub>ab</sub> é o grau de similaridade entre os textos a e b;
 - f<sub>i,a</sub> é o valor de cada traço linguístico i no texto a; 
